@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Abhinav Belhekar
+Abhinav Belhekar
+Computer Engineering Student
 
 Show Contacts
 
 Email
-richard@example.com
+abhinavbelhekar01@gmail.com
 
 Phone
 +1 (213) 352-2795
